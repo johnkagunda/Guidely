@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# Storage (generated at runtime, don't commit indexed data)
+backend/storage/indexes/*.faiss
+backend/storage/metadata/*.json
+backend/storage/cache/*.npy
+backend/storage/cache/cache_index.json
+backend/storage/logs/*.log
+backend/storage/logs/metrics.json
+backend/data/uploaded-docs/
+
+# OS
+.DS_Store
+Thumbs.db
+.env

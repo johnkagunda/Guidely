@@ -1,0 +1,22 @@
+Employee Guide
+
+Getting Started
+Welcome to Guidely. Your first week focuses on setting up your accounts, meeting your team, and completing mandatory training. Your manager will assign you a buddy for your first 30 days who can answer day-to-day questions.
+
+Office Locations and Hours
+The Nairobi office is open Monday through Friday, 8am-6pm, with core collaboration hours of 10am-4pm. Badge access is required outside of these hours. The London and Austin offices follow similar core-hours models adjusted for local time zones.
+
+Communication Tools
+The company uses Slack for daily communication, Google Workspace for email and documents, and Zoom for video meetings. Status updates for cross-team projects should be posted in the relevant #project channel every Friday.
+
+Equipment and IT
+New employees receive a laptop, monitor, and headset within their first week. Equipment requests for additional hardware go through the IT portal and are typically fulfilled within 5 business days. All company laptops must have disk encryption and the endpoint security agent installed before being used to access company systems.
+
+Career Development
+Employees can access a $1,500 annual learning and development stipend for courses, conferences, or certifications relevant to their role. Internal mobility is encouraged; employees who have been in their current role for at least 12 months may apply for internal job postings without needing manager pre-approval to apply.
+
+Team Meetings and Cadence
+Most teams run a weekly planning meeting on Mondays and a retrospective every other Friday. All-hands company meetings are held on the first Wednesday of each month and are recorded for anyone unable to attend live.
+
+Travel Policy
+Business travel must be booked through the corporate travel portal. Economy class is standard for flights under 6 hours; premium economy is permitted for longer flights. Travel insurance is automatically included for all company-booked trips.

@@ -1,0 +1,31 @@
+Employee FAQ
+
+How many annual leave days do employees receive?
+Employees receive 21 working days of paid annual leave per year, accrued monthly.
+
+How do I request time off?
+Submit a leave request through the HR portal at least 5 business days before the requested dates. Your manager will approve or decline the request within 2 business days.
+
+Can I work from home?
+Yes. Employees may work remotely up to 3 days per week with manager approval. Fully remote setups require VP approval.
+
+What is the process for submitting expenses?
+Upload an itemized receipt to the finance portal within 30 days of the purchase. Expenses over $50 need manager approval before you spend the money.
+
+Who do I contact for IT issues?
+Email it-support@guidely.example or open a ticket in the IT helpdesk portal. Critical outages should also be reported in the #it-urgent Slack channel.
+
+How do I reset my company password?
+Go to the identity portal at id.guidely.example and click "Forgot password". You will receive a reset link at your registered company email within a few minutes. Passwords must be at least 12 characters and include a number and symbol.
+
+What health benefits are offered?
+The company provides medical, dental, and vision insurance starting on your first day of employment, with premiums 80% covered by the company for employees and 50% covered for dependents.
+
+How is performance reviewed?
+Formal performance reviews happen twice a year, in June and December. Reviews include a self-assessment, manager assessment, and peer feedback, and feed into compensation decisions.
+
+What is the parental leave policy?
+Primary caregivers receive 16 weeks of paid parental leave; secondary caregivers receive 6 weeks. Leave can be taken within 12 months of the birth or adoption and may be split into two blocks.
+
+Who approves new software purchases?
+Software purchases under $200/month can be approved by a team lead. Anything above that requires IT and Finance sign-off through the procurement portal.

@@ -1,0 +1,22 @@
+Security Policy
+
+Password Requirements
+All company accounts must use passwords of at least 12 characters, including at least one number and one symbol. Passwords must be rotated every 180 days for systems that do not support single sign-on. Password reuse across the last 10 passwords is not permitted.
+
+Multi-Factor Authentication
+Multi-factor authentication (MFA) is mandatory for all employees on email, VPN, and any system containing customer data. Authenticator apps are preferred over SMS-based codes due to SIM-swap risk.
+
+Data Classification
+Company data is classified into three tiers: Public, Internal, and Confidential. Confidential data, including customer PII and financial records, may not be stored on personal devices or uploaded to unapproved third-party services.
+
+Device Security
+All company-issued laptops must have full-disk encryption, automatic screen lock after 5 minutes of inactivity, and the endpoint security agent enabled at all times. Personal devices used to access company email must be enrolled in the mobile device management (MDM) system.
+
+Incident Reporting
+Suspected security incidents, including phishing emails, lost devices, or unauthorized access, must be reported to security@guidely.example within 24 hours of discovery. The security team aims to acknowledge reports within 1 hour during business hours.
+
+Third-Party Access
+Vendors and contractors requiring system access must go through a security review and sign a data processing agreement before credentials are issued. Access is granted on a least-privilege basis and reviewed quarterly.
+
+Phishing and Social Engineering
+Employees should never share passwords or MFA codes with anyone, including IT staff, who should never ask for them. Suspicious emails should be reported using the "Report Phishing" button in the email client rather than forwarded manually.
